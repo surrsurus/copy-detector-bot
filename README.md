@@ -28,6 +28,6 @@ The token file should look like:
 
 ```json
 {
-	"token": "Your token here",
+  "token": "Your token here",
 }
 ```
